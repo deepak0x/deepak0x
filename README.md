@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Engineer from Delhi, India</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=deepakbhagatiitr&label=Profile%20views&color=0e75b6&style=flat" alt="deepakbhagatiitr" />
+  <img src="https://komarev.com/ghpvc/?username=deepak0x&label=Profile%20views&color=0e75b6&style=flat" alt="deepak0x" />
 </p>
 
 - 🌱 I’m currently learning **Networking and DevOps**.
@@ -38,8 +38,8 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakbhagatiitr&show_icons=true&locale=en&layout=compact" alt="deepakbhagatiitr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak0x&show_icons=true&locale=en&layout=compact" alt="deepak0x" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakbhagatiitr&show_icons=true&locale=en" alt="deepakbhagatiitr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak0x&show_icons=true&locale=en" alt="deepak0x" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakbhagatiitr&" alt="deepakbhagatiitr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak0x&" alt="deepak0x" /></p>
