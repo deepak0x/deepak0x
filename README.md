@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=deepakbhagatiitr&label=Profile%20views&color=0e75b6&style=flat" alt="deepakbhagatiitr" />
 </p>
 
-- 🌱 I’m currently learning **Data Science**.
+- 🌱 I’m currently learning **Networking and DevOps**.
 
 - 📫 How to reach me: **deepak1@me.iitr.ac.in**
 
