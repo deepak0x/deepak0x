@@ -38,8 +38,10 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak0x&show_icons=true&locale=en&layout=compact" alt="deepak0x" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak0x&show_icons=true&locale=en" alt="deepak0x" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=deepak0x&layout=compact&theme=tokyonight)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak0x&" alt="deepak0x" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepak0x&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=deepak0x&theme=tokyonight)
+
