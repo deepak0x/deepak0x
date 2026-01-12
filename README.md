@@ -38,10 +38,10 @@
   </a>
 </p>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs.svg?username=deepak0x&layout=compact&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=deepak0x&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api.svg?username=deepak0x&show_icons=true&theme=default)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepak0x&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/api.svg?user=deepak0x)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=deepak0x&theme=tokyonight)
 
