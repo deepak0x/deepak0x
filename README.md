@@ -14,8 +14,6 @@
   🌐 &nbsp;Portfolio &nbsp;→&nbsp; <a href="https://portfolio-deepak-bhagat.vercel.app/"><b>portfolio-deepak-bhagat.vercel.app</b></a>
 </p>
 
----
-
 <h3 align="left"><code>~ $ connect</code></h3>
 
 <p align="left">
@@ -23,8 +21,6 @@
   <a href="https://linkedin.com/in/deepak-bhagat-233149280"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://discord.com/users/deepak0x"><img src="https://img.shields.io/badge/Discord-deepak0x-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
-
----
 
 <h3 align="left"><code>~ $ stack</code></h3>
 
