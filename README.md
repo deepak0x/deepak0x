@@ -16,7 +16,7 @@
 
 ---
 
-<h2 align="left"><code>~ $ connect</code></h2>
+<h3 align="left"><code>~ $ connect</code></h3>
 
 <p align="left">
   <a href="https://twitter.com/deepak988088"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
@@ -26,10 +26,10 @@
 
 ---
 
-<h2 align="left"><code>~ $ stack</code></h2>
+<h3 align="left"><code>~ $ stack</code></h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,jupyter,react,nextjs,nodejs,flutter,typescript,tailwind,docker,postgres,mongodb,aws,git,linux&perline=10" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,react,nodejs,flutter,docker" alt="Tech stack" />
 </p>
 
 ---
