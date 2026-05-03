@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋, I'm Deepak Bhagat</h1>
+<h1 align="center">Hi 👋, I'm Deepak Bhagat</h1>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&color=A78BFA&width=620&lines=Software+%26+AI+Engineer;Building+intelligent%2C+useful+products;UG+%40+IIT+Roorkee+%E2%80%A2+Delhi%2C+India;Currently+exploring+Networking+%26+DevOps" alt="What I do" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Software+%26+AI+Engineer;Building+intelligent%2C+useful+products;UG+%40+IIT+Roorkee+%E2%80%A2+Delhi%2C+India;Currently+exploring+Networking+%26+DevOps" alt="What I do" />
   </a>
 </p>
 
@@ -40,10 +40,10 @@
 
 <p align="center">
   <a href="https://github.com/deepak0x">
-    <img width="49%" src="https://github-readme-stats.shion.dev/api?username=deepak0x&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Deepak's GitHub stats" />
+    <img height="195" src="https://github-readme-stats.shion.dev/api?username=deepak0x&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Deepak's GitHub stats" />
   </a>
   <a href="https://github.com/deepak0x">
-    <img width="49%" src="https://streak-stats.demolab.com?user=deepak0x&theme=tokyonight&hide_border=true" alt="Deepak's GitHub streak" />
+    <img height="195" src="https://streak-stats.demolab.com?user=deepak0x&theme=tokyonight&hide_border=true" alt="Deepak's GitHub streak" />
   </a>
 </p>
 
