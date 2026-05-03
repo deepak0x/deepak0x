@@ -16,16 +16,28 @@
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/deepak988088)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-bhagat-233149280)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepak988088@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-deepak0x-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/deepak0x)
 
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=python,react,nodejs,flutter,docker)](https://skillicons.dev)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=deepak0x&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com?user=deepak0x&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=deepak0x&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <a href="https://github.com/deepak0x">
+    <img height="180" src="https://github-readme-stats.shion.dev/api?username=deepak0x&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Deepak's GitHub stats" />
+  </a>
+  <a href="https://github.com/deepak0x">
+    <img height="180" src="https://streak-stats.demolab.com?user=deepak0x&theme=tokyonight&hide_border=true" alt="Deepak's GitHub streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/deepak0x">
+    <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=deepak0x&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Deepak's most used languages" />
+  </a>
+</p>
 
 
 
