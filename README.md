@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Deepak Bhagat</h1>
 <h3 align="center">A Passionate Software Engineer from Delhi, India</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=deepak0x&label=Profile%20views&color=0e75b6&style=flat&base=2074" alt="deepak0x" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deepak0x&label=Profile%20Views&color=blueviolet&style=for-the-badge&base=2074" alt="deepak0x profile views" />
 </p>
 
 - 🌱 I’m currently learning **Networking and DevOps**.
@@ -22,9 +22,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,react,nodejs,flutter,docker)](https://skillicons.dev)
 
-![](https://github-readme-stats.vercel.app/api?username=deepak0x&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=deepak0x&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com?user=deepak0x&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak0x&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=deepak0x&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
