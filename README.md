@@ -18,13 +18,11 @@
 
 ---
 
-### 🧠 About Me
+- 🌱 I'm currently learning **Networking and DevOps**.
 
-- 🎓 Undergrad **@IIT-Roorkee** &nbsp;·&nbsp; Tech Head **@Ecell-IITR**
-- 🤖 Building at the intersection of **Software** and **AI** — agents, LLM tooling, full-stack apps
-- 🌱 Currently exploring **Networking** and **DevOps**
-- 📫 Reach me at **deepak1@me.iitr.ac.in**
-- 🌐 Portfolio &nbsp;→&nbsp; [portfolio-deepak-bhagat.vercel.app](https://portfolio-deepak-bhagat.vercel.app/)
+- 📫 How to reach me: **deepak1@me.iitr.ac.in**
+
+- 🌐 Check out my portfolio: [https://portfolio-deepak-bhagat.vercel.app/](https://portfolio-deepak-bhagat.vercel.app/)
 
 <h3 align="center">🤝 Connect With Me</h3>
 
@@ -46,8 +44,6 @@
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,typescript,tailwind,docker,postgres,mongodb,aws,git,linux&perline=12" alt="Software stack" /></a>
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
 <p align="center">
   <a href="https://github.com/deepak0x">
     <img height="180" src="https://github-readme-stats.shion.dev/api?username=deepak0x&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Deepak's GitHub stats" />
@@ -57,8 +53,6 @@
   </a>
 </p>
 
-<h2 align="center">📈 Contribution Activity</h2>
-
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepak0x&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Contribution activity graph" />
@@ -67,5 +61,6 @@
 
 ---
 
-<h3 align="center"><i>"Any sufficiently advanced technology is indistinguishable from magic."</i></h3>
-<p align="center">— <b>Arthur C. Clarke</b></p>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+</p>
