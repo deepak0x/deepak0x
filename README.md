@@ -57,12 +57,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/deepak0x">
-    <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=deepak0x&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Deepak's most used languages" />
-  </a>
-</p>
-
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
@@ -71,16 +65,7 @@
   </a>
 </p>
 
-<h2 align="center">🏆 Trophies</h2>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=deepak0x&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
-  </a>
-</p>
-
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
+<h3 align="center"><i>"Any sufficiently advanced technology is indistinguishable from magic."</i></h3>
+<p align="center">— <b>Arthur C. Clarke</b></p>
