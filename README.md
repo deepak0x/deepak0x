@@ -21,16 +21,18 @@
   <a href="https://discord.com/users/deepak0x"><img src="https://img.shields.io/badge/Discord-deepak0x-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
+---
+
 <h3 align="left">🛠️ Tech Stack</h3>
 
 <p align="left">
   <strong>AI / ML</strong><br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi&perline=8" alt="AI/ML stack" /></a>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,jupyter,fastapi&perline=8" alt="AI/ML stack" />
 </p>
 
 <p align="left">
   <strong>Software</strong><br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,typescript,tailwind,docker,postgres,mongodb,aws,git,linux&perline=12" alt="Software stack" /></a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,typescript,tailwind,docker,postgres,mongodb,aws,git,linux&perline=12" alt="Software stack" />
 </p>
 
 ---
