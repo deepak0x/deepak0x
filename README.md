@@ -13,6 +13,8 @@
   🌐 &nbsp;Portfolio &nbsp;→&nbsp; <a href="https://portfolio-deepak-bhagat.vercel.app/"><b>portfolio-deepak-bhagat.vercel.app</b></a>
 </p>
 
+---
+
 <h3 align="left">🤝 Connect With Me</h3>
 
 <p align="left">
@@ -27,7 +29,8 @@
 
 <p align="left">
   <strong>AI / ML</strong><br/>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,jupyter,fastapi&perline=8" alt="AI/ML stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,jupyter,fastapi&perline=8" alt="AI/ML stack" />
+  <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=ultralytics&logoColor=white" alt="YOLOv8" />
 </p>
 
 <p align="left">
