@@ -18,11 +18,11 @@
 
 ---
 
-- 🌱 I'm currently learning **Networking and DevOps**.
-
-- 📫 How to reach me: **deepak1@me.iitr.ac.in**
-
-- 🌐 Check out my portfolio: [https://portfolio-deepak-bhagat.vercel.app/](https://portfolio-deepak-bhagat.vercel.app/)
+<p align="center">
+  🌱 &nbsp;Currently learning <b>Networking and DevOps</b><br/><br/>
+  📫 &nbsp;Reach me at <a href="mailto:deepak1@me.iitr.ac.in"><b>deepak1@me.iitr.ac.in</b></a><br/><br/>
+  🌐 &nbsp;Portfolio &nbsp;→&nbsp; <a href="https://portfolio-deepak-bhagat.vercel.app/"><b>portfolio-deepak-bhagat.vercel.app</b></a>
+</p>
 
 <h3 align="center">🤝 Connect With Me</h3>
 
@@ -46,10 +46,10 @@
 
 <p align="center">
   <a href="https://github.com/deepak0x">
-    <img height="180" src="https://github-readme-stats.shion.dev/api?username=deepak0x&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Deepak's GitHub stats" />
+    <img width="49%" src="https://github-readme-stats.shion.dev/api?username=deepak0x&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Deepak's GitHub stats" />
   </a>
   <a href="https://github.com/deepak0x">
-    <img height="180" src="https://streak-stats.demolab.com?user=deepak0x&theme=tokyonight&hide_border=true" alt="Deepak's GitHub streak" />
+    <img width="49%" src="https://streak-stats.demolab.com?user=deepak0x&theme=tokyonight&hide_border=true" alt="Deepak's GitHub streak" />
   </a>
 </p>
 
