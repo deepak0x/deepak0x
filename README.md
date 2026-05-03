@@ -9,9 +9,9 @@
 </p>
 
 <p align="left">
-  🌱 &nbsp;Currently learning <b>Networking and DevOps</b><br/><br/>
-  📫 &nbsp;Reach me at <a href="mailto:deepak1@me.iitr.ac.in"><b>deepak1@me.iitr.ac.in</b></a><br/><br/>
-  🌐 &nbsp;Portfolio &nbsp;→&nbsp; <a href="https://portfolio-deepak-bhagat.vercel.app/"><b>portfolio-deepak-bhagat.vercel.app</b></a>
+  › &nbsp;Currently learning <b>Networking and DevOps</b><br/><br/>
+  › &nbsp;Reach me at <a href="mailto:deepak1@me.iitr.ac.in"><b>deepak1@me.iitr.ac.in</b></a><br/><br/>
+  › &nbsp;Portfolio &nbsp;→&nbsp; <a href="https://portfolio-deepak-bhagat.vercel.app/"><b>portfolio-deepak-bhagat.vercel.app</b></a>
 </p>
 
 <h3 align="left"><code>~ $ connect</code></h3>
