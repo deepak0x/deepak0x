@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Deepak Bhagat</h1>
 
-<h3 align="center">A Passionate Software Engineer from Delhi, India</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=28&duration=2500&pause=99999&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=A+Passionate+Software+Engineer+from+Delhi%2C+India&repeat=false" alt="A Passionate Software Engineer from Delhi, India" />
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=deepak0x&label=Profile%20Views&color=blueviolet&style=for-the-badge&base=2074" alt="deepak0x profile views" />
