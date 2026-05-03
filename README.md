@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepak Bhagat</h1>
 
-<h3 align="center">Software & AI Engineer</h3>
-<p align="center"><i>Building intelligent, useful products · UG @ IIT Roorkee · Delhi, India</i></p>
+<h3 align="center">A Passionate Software Engineer from Delhi, India</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=deepak0x&label=Profile%20Views&color=blueviolet&style=for-the-badge&base=2074" alt="deepak0x profile views" />
