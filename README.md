@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Bhagat</h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Software+%26+AI+Engineer;Building+intelligent%2C+useful+products;UG+%40+IIT+Roorkee+%E2%80%A2+Delhi%2C+India;Currently+exploring+Networking+%26+DevOps" alt="What I do" />
-  </a>
-</p>
+<h3 align="center">Software & AI Engineer</h3>
+<p align="center"><i>Building intelligent, useful products · UG @ IIT Roorkee · Delhi, India</i></p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=deepak0x&label=Profile%20Views&color=blueviolet&style=for-the-badge&base=2074" alt="deepak0x profile views" />
@@ -38,14 +35,22 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/deepak0x">
-    <img height="195" src="https://github-readme-stats.shion.dev/api?username=deepak0x&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Deepak's GitHub stats" />
-  </a>
-  <a href="https://github.com/deepak0x">
-    <img height="195" src="https://streak-stats.demolab.com?user=deepak0x&theme=tokyonight&hide_border=true" alt="Deepak's GitHub streak" />
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/deepak0x">
+          <img src="https://github-readme-stats.shion.dev/api?username=deepak0x&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=420" alt="Deepak's GitHub stats" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/deepak0x">
+          <img src="https://streak-stats.demolab.com?user=deepak0x&theme=tokyonight&hide_border=true&card_width=420" alt="Deepak's GitHub streak" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
