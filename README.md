@@ -22,9 +22,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,react,nodejs,flutter,docker)](https://skillicons.dev)
 
-![](./profile-summary-card-output/nord_dark/profile-details.svg)<br/>
+![](./profile-summary-card-output/nord_dark/0-profile-details.svg)<br/>
 ![](https://streak-stats.demolab.com?user=deepak0x&theme=dark&hide_border=false)<br/>
-![](./profile-summary-card-output/nord_dark/repos-per-language.svg)
+![](./profile-summary-card-output/nord_dark/1-repos-per-language.svg)
 
 
 
