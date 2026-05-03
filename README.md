@@ -25,7 +25,7 @@
 <h3 align="left"><code>~ $ stack</code></h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,react,nodejs,flutter,docker" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,opencv,react,nodejs,flutter,docker,aws" alt="Tech stack" />
 </p>
 
 ---
