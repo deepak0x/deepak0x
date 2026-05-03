@@ -29,8 +29,7 @@
 
 <p align="left">
   <strong>AI / ML</strong><br/>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,jupyter,fastapi&perline=8" alt="AI/ML stack" />
-  <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=ultralytics&logoColor=white" alt="YOLOv8" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,jupyter&perline=8" alt="AI/ML stack" />
 </p>
 
 <p align="left">
