@@ -11,7 +11,7 @@
 <p align="left">
   ├─ &nbsp;Currently exploring <b>MCP servers</b> and <b>agent orchestration</b><br/><br/>
   ├─ &nbsp;Reach me at <a href="mailto:deepak1@me.iitr.ac.in"><b>deepak1@me.iitr.ac.in</b></a><br/><br/>
-  └─ &nbsp;Portfolio &nbsp;→&nbsp; <a href="https://portfolio-deepak-bhagat.vercel.app/"><b>portfolio-deepak-bhagat.vercel.app</b></a>
+  └─ &nbsp;Portfolio &nbsp;→&nbsp; <a href="https://deepak0x.is-a.dev/"><b>deepak0x.is-a.dev</b></a>
 </p>
 
 <h3 align="left"><code>~ $ connect</code></h3>
